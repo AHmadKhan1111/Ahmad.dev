@@ -46,7 +46,7 @@ const projects: Project[] = [
     description: 'Built complete e-commerce solution using React and Node.js. Developed JWT authentication and protected routes. Designed optimized MongoDB data models.',
     tech: ['React', 'Node.js', 'MongoDB', 'JWT'],
     metric: 'Full Stack Solution',
-    image: '/src/tax-s-consultancy.png',
+    image: 'https://cdn.dribbble.com/userupload/24036706/file/original-d2d315539785b5c62c2bfc8b43659182.jpg?resize=752x&vertical=center',
     github: 'https://github.com/AHmadKhan1111',
     demo: 'https://tax-s-consultancy.vercel.app',
     category: 'SaaS',
